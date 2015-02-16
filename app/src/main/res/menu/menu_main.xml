@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/selection_home" android:title="@string/home"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/selection_linear" android:title="@string/task3"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/selection_relative" android:title="@string/task4"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/selection_grid" android:title="@string/task5"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/selection_moviedata" android:title="@string/task6"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/selection_seekbar" android:title="@string/task7"
+        android:orderInCategory="101" app:showAsAction="never" />
+
+
+
+
+
+
+</menu>

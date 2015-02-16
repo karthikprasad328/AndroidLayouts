@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="3"
+    android:rowCount="5"
+    android:layout_gravity="center"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:src="@drawable/dbz"
+        android:layout_width="200dp"
+        android:layout_height="55dp"
+        android:scaleType="fitXY"/>
+    <ImageView
+        android:src="@drawable/bleach"
+        android:layout_width="200dp"
+        android:layout_height="55dp"
+        android:scaleType="fitXY"/>
+    <ImageView
+        android:src="@drawable/naruto"
+        android:layout_width="200dp"
+        android:layout_height="55dp"
+        android:scaleType="fitXY"/>
+
+    <ImageView
+        android:src="@drawable/ichigo"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_gravity="fill"
+        android:layout_rowSpan="2"
+        android:scaleType="fitXY"/>
+
+    <ImageView
+        android:src="@drawable/narutoyo"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_gravity="fill"
+        android:layout_rowSpan="2"
+        android:scaleType="fitXY"
+        android:layout_columnSpan="2"/>
+
+    <LinearLayout android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_columnSpan="3"
+        android:layout_rowSpan="2">
+
+        <ImageView
+            android:src="@drawable/goku"
+            android:layout_width="300dp"
+            android:layout_height="110dp"
+            android:scaleType="fitXY"/>
+
+        <ImageView
+            android:src="@drawable/vegeta"
+            android:layout_width="300dp"
+            android:layout_height="110dp"
+            android:scaleType="fitXY"/>
+    </LinearLayout>
+
+
+</GridLayout>

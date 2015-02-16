@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Karthik Nanjundaswamy Guru Prasad</string>
+    <string name="home">Home</string>
+    <string name="name">Karthik Nanjundaswamy Guru Prasad</string>
+    <string name="session">CIS-600 Android Programming</string>
+    <string name="task3">LinearLayout: Buttons</string>
+    <string name="task4">Relative Layout</string>
+    <string name="task5">Grid Layout</string>
+    <string name="task6">Movie Data Layout</string>
+    <string name="task7">Seekbar</string>
+    <string name="seektext">Slide SeekBar To Change Size Of Image</string>
+
+
+
+
+</resources>
